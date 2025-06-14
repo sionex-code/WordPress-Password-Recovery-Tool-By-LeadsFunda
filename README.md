@@ -154,3 +154,25 @@ This is an emergency recovery tool. For general WordPress support, consult:
 ---
 
 **Remember: Security is your responsibility. Use this tool wisely and delete it immediately when finished.**
+
+---
+
+<div align="center">
+
+**🔧 More Professional WordPress Tools & Scripts**
+
+Visit **[LeadsFunda](https://leadsfunda.com)** for additional premium WordPress utilities, automation scripts, and development tools.
+
+---
+
+<p>
+  <strong>WordPress Recovery Tool</strong><br>
+  © 2024 LeadsFunda. All rights reserved.<br>
+  <em>Remember: Security is your responsibility. Use this tool wisely and delete it immediately when finished.</em>
+</p>
+
+![LeadsFunda](https://img.shields.io/badge/LeadsFunda-WordPress%20Tools-blue?style=flat-square&logo=wordpress)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://choosealicense.com/licenses/mit/)
+[![Professional Support](https://img.shields.io/badge/Support-Professional-orange?style=flat-square)](https://leadsfunda.com)
+
+</div>
